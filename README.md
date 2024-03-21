@@ -1,5 +1,10 @@
 # SoundDZine
 
-responsive landing page created based on figma design
-tools:
-HTML, CSS, REACT, JAVASCRIPT
+Responsive landing page created based on Figma design.
+
+Tools:
+
+- HTML
+- CSS
+- React
+- JavaScript
