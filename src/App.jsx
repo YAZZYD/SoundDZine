@@ -15,6 +15,7 @@ const App = () => {
       <Info />
       <Blog />
       <Testimonials />
+      <Footer />
     </>
   );
 };
