@@ -1,0 +1,32 @@
+#testimonials .content-container {
+  margin-top: 50px;
+  justify-content: space-between;
+}
+#testimonials .testimonial-container img {
+  border-radius: 10px;
+  height: 100px;
+  width: 100px;
+}
+#testimonials .testimonial-container {
+  width: 264px;
+}
+
+#testimonials .name {
+  font-family: Alegreya;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+#testimonials .company {
+  font-size: 13px;
+  text-transform: uppercase;
+  opacity: 0.7;
+  padding: 6px 0px;
+}
+#testimonials .review {
+  font-family: Alegreya;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 22px;
+  margin-top: 5px;
+}

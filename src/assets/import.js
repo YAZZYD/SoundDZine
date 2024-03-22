@@ -14,13 +14,18 @@ import topic3 from "./topics-03.png";
 import topic4 from "./topics-04.png";
 import topic5 from "./topics-05.png";
 import topic6 from "./topics-06.png";
-
+import testimonial1 from "./testimonials-first.png";
+import testimonial2 from "./testimonials-second.png";
+import testimonial3 from "./testimonials-third.png";
 export {
   studentIcon,
   videoIcon,
   blog1,
   blog2,
   blog3,
+  testimonial1,
+  testimonial2,
+  testimonial3,
   facebook,
   instagram,
   twitter,
