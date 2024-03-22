@@ -13,6 +13,7 @@ const App = () => {
       <Header />
       <Topics />
       <Info />
+      <Blog />
     </>
   );
 };

@@ -46,7 +46,7 @@ section h2::after {
   bottom: -10px;
   background-color: var(--red-color);
 }
-section h2 .pink-orange::after {
+section.pink-orange h2::after {
   background-color: var(--yellow-color);
 }
 
